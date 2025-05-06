@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.inicio {
+    background: black;
+    height: 77px;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+
+li {
+    color: white;
+    text-align: right;
+}
+
+.home {
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 40px;
+    margin-top: 15px;
+    font-size: 15pt;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+
+
+menu {
+    display: none;
+}
+
+.home:hover {
+    background-color: #af5aff; 
+    color: #ffffff; 
+    padding-bottom: 5px;
+    padding-top: 7px;
+    padding-left: 16px;
+  }
+
+.pé {
+    background: black;
+    position: absolute; bottom: 0;
+    width: 99%;
+    height: 77px;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.pé1 {
+    color: white;
+    
+}
+
+#testeee {
+    color: white;
+    margin-left: 30px;
+    margin-top: 26px;
+    margin-right: 85pc;
+}
+
+#testeee:hover {
+    cursor: pointer;
+    background: rgb(162, 0, 255);
+    color: white;
+}
+
+.teste {
+    color: rgb(255, 0, 0);
+    font-size: 16pt;
+    margin-right: 110pc;
+}
+
+.teste:hover {
+    cursor: pointer;
+    background: black;
+    color: white;
+    padding-right: 50px;
+}
+
+.zap {
+    display: block;
+    background: red;
+    width: 50px;
+    height: 50px;
+    background: url(/img/teste.png);
+}
+
+.linkzap {
+    text-decoration: none;
+    color: green;
+    
+}
+
+.q1 {
+    background: blue;
+}
+
+
+
